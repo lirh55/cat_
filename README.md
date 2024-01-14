@@ -1,0 +1,1 @@
+将data解压到GAN文件夹下，即cat_12_train和cat_12_test位于GAN文件夹下，运行test.py即可
